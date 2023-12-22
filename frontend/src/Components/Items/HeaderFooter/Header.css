@@ -1,0 +1,17 @@
+.p{
+    background-color: #41C3C3;
+}
+.brand{
+    display: flex;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.firstName{
+    color: #000047;
+    font-weight: bolder;
+}
+.lastName{
+    color:#F5F5F5;
+    padding-left: 6px;
+    font-weight: bold;
+}
